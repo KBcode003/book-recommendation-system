@@ -1,0 +1,39 @@
+{% extends "index.html" %}
+
+{% block trending %}
+<!-- Empty to override trending section -->
+{% endblock %}
+
+{% block content %}
+<style>
+    .center-box {
+        height: 80vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .email-link {
+        font-size: 18px;
+        color: #17a2b8; /* Bootstrap's text-info color */
+        text-decoration: none;
+    }
+    .email-link:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<div class="container center-box text-center">
+    <h1 style="font-size: 50px; color: orange;">Contact Us:</h1>
+    <p>
+        <a href="mailto:krishalab022331@nec.edu.np" class="email-link">
+            krishalab022331@nec.edu.np
+        </a>
+    </p>
+    <p>
+        <a href="mailto:kritikan022332@nec.edu.np" class="email-link">
+            kritikan022332@nec.edu.np
+        </a>
+    </p>
+</div>
+{% endblock %}
