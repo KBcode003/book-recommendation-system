@@ -89,6 +89,10 @@ A web-based **Book Recommendation System** built using **Python, Flask, HTML, CS
 # 👥 Collaboration
 
 This project was developed collaboratively using GitHub. Contributors worked on backend logic, ML integration, and frontend design using proper version control practices.
+# Contributors
+- [Krishala Bhattarai](https://github.com/KBcode003)
+- [Kritika Neupane](https://github.com/kritikaneupane-a12)
+
 
 # 🎯 Use Case
 
@@ -106,6 +110,6 @@ This project was developed collaboratively using GitHub. Contributors worked on 
 # 👩‍💻 Author
 
 **Krishala Bhattarai**
-Final Year CSE Student | Aspiring Web & ML Developer-
+Final Year CSE Student | Aspiring Web & ML Developer
 
 
